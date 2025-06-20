@@ -33,3 +33,11 @@ npm run dev
 - ESLint
 - React Router
 - React Query
+
+## Screenshots
+
+![Screenshot 1](./public/Screenshot 2025-06-21 at 12.32.24 AM.png) ![Screenshot 2](./public/Screenshot 2025-06-21 at 12.32.44 AM.png)
+
+![Screenshot 3](./public/Screenshot 2025-06-21 at 12.32.57 AM.png) ![Screenshot 4](./public/Screenshot 2025-06-21 at 12.33.22 AM.png)
+
+![Screenshot 5](./public/Screenshot 2025-06-21 at 12.33.56 AM.png) ![Screenshot 6](./public/Screenshot 2025-06-21 at 12.34.09 AM.png)
