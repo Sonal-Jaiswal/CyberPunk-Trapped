@@ -1,43 +1,40 @@
-# Vite React Project
+# CyberPunk-Trapped
 
-This is a modern React project built with Vite, TypeScript, and Shadcn UI components.
+🕶️ **Cyberpunk hacking game:** Infiltrate networks, breach firewalls, and extract data before rival netrunners catch you. Built for immersive missions and strategic infiltration.
 
-## Getting Started
+[Play Now](https://cyber-punk-trapped.vercel.app)
 
-1. Clone the repository
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run build:dev` - Build for development
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-## Features
-
-- React 18
-- TypeScript
-- Vite
-- Shadcn UI Components
-- Tailwind CSS
-- ESLint
-- React Router
-- React Query
+---
 
 ## Screenshots
 
-![Screenshot 1](./public/Screenshot 2025-06-21 at 12.32.24 AM.png) ![Screenshot 2](./public/Screenshot 2025-06-21 at 12.32.44 AM.png)
+![Screenshot 1](./public/s1.png) ![Screenshot 2](./public/s2.png)
 
-![Screenshot 3](./public/Screenshot 2025-06-21 at 12.32.57 AM.png) ![Screenshot 4](./public/Screenshot 2025-06-21 at 12.33.22 AM.png)
+![Screenshot 3](./public/s3.png) ![Screenshot 4](./public/s4.png)
 
-![Screenshot 5](./public/Screenshot 2025-06-21 at 12.33.56 AM.png) ![Screenshot 6](./public/Screenshot 2025-06-21 at 12.34.09 AM.png)
+![Screenshot 5](./public/s5.png) ![Screenshot 6](./public/s6.png)
+
+---
+
+## About
+
+- **TypeScript:** 98.2%
+- **CSS:** 1.2%
+- **Other:** 0.6%
+
+---
+
+## Resources
+
+- [Readme](./README.md)
+- [Production Deployment](https://cyber-punk-trapped.vercel.app)
+
+---
+
+## Security
+
+If you discover a security vulnerability, please open an issue or contact the maintainer directly.
+
+---
+
+© 2025 GitHub, Inc.
