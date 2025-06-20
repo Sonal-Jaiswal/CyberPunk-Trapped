@@ -12,12 +12,21 @@ Whether you're a developer interested in the codebase, a gamer curious about how
 
 ---
 
-## 📸 Screenshots
 
-| ![](public/Screenshot%202025-06-21%20at%2012.32.24 AM.png) | ![](public/Screenshot%202025-06-21%20at%2012.32.44 AM.png) |
-|:--:|:--:|
-| ![](public/Screenshot%202025-06-21%20at%2012.32.57 AM.png) | ![](public/Screenshot%202025-06-21%20at%2012.33.22 AM.png) |
-| ![](public/Screenshot%202025-06-21%20at%2012.33.56 AM.png) | ![](public/Screenshot%202025-06-21%20at%2012.34.09 AM.png) |
+## Screenshots
+
+<p align="center">
+  <img src="./public/s1.png" width="45%" />
+  <img src="./public/s2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="./public/s3.png" width="45%" />
+  <img src="./public/s4.png" width="45%" />
+</p>
+<p align="center">
+  <img src="./public/s5.png" width="45%" />
+  <img src="./public/s6.png" width="45%" />
+</p>
 
 ---
 
